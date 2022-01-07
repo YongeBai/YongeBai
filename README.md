@@ -1,7 +1,9 @@
 Hi I'm Yonge Bai, 
 
 📚 First Year Engineering Student at McMaster University, pursuing Software Engineering
+
 👓 Learning Python with PyCharm and VS Code
+
 👀 Looking for a Software Engineer/Developer Summer/Spring Co-op
 
 <!---
