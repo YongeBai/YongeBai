@@ -4,6 +4,8 @@ Hi I'm Yonge Bai,
 
 👓 Learning Python with PyCharm and VS Code
 
+👨‍💻 Trying to get into AI and ML using PyTorch 
+
 👀 Looking for a Software Engineer/Developer Summer/Spring Co-op
 
 <!---
