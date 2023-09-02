@@ -1,6 +1,6 @@
 Hi I'm Yonge Bai, 
 
-📚 2nd year Software Engineering student at McMaster University
+📚 3rd year Software Engineering student at McMaster University
 
 👀 Looking for a Summer/Spring Co-op
 
